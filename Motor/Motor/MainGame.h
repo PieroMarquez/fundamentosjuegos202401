@@ -2,9 +2,12 @@
 #include <SDL/SDL.h>
 #include<GL/eglew.h>
 #include <iostream>
+#include<vector>
+#include <cmath>
+#include<memory>
 #include "Sprite.h"
 #include "GLS_Program.h"
-#include <vector>
+#include "Window.h"
 using namespace std;
 
 enum class GameState {
@@ -17,16 +20,18 @@ class MainGame {
 
 private:
 	Sprite sprite;
+	Uint32 initTime;
+	bool spriteInitialized[20];
+	Sprite sprites[20];
 	int width;
 	int height;
-	SDL_Window* window;
+	Window* window;
 	void init();
 	void processInput();
 	GLS_Program program;
 	void initShaders();
 	float time = 0;
-	Sprite sprites[10];  // Cambia MAX_SPRITES al tamaño deseado
-	int numSprites;  // Lleva un registro del número actual de sprites
+	int cont=1;
 public:
 	MainGame();
 	~MainGame();
@@ -34,4 +39,5 @@ public:
 	void run();
 	void draw();
 	void update();
+	float randomCoordinated();
 };

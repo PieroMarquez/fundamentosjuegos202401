@@ -1,5 +1,5 @@
-﻿  Main.cpp
-  MainGame.cpp
-C:\Users\Pieri\OneDrive\Desktop\Teoria de juegos\Motor\Motor\MainGame.cpp(47,14): warning C4305: '+=': truncamiento de 'double' a 'float'
-  Generando código...
-  Motor.vcxproj -> C:\Users\Pieri\OneDrive\Desktop\Teoria de juegos\Motor\x64\Debug\Motor.exe
+﻿  MainGame.cpp
+C:\Users\Pieri\Downloads\Motor\Motor\MainGame.cpp(40,14): warning C4305: '+=': truncamiento de 'double' a 'float'
+C:\Users\Pieri\Downloads\Motor\Motor\MainGame.cpp(60,56): warning C4018: '>': no coinciden signed/unsigned
+C:\Users\Pieri\Downloads\Motor\Motor\MainGame.cpp(72,32): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+  Motor.vcxproj -> C:\Users\Pieri\Downloads\Motor\x64\Debug\Motor.exe

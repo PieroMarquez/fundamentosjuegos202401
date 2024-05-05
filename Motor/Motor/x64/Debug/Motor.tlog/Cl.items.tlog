@@ -1,5 +1,14 @@
-C:\Users\Pieri\OneDrive\Desktop\Teoria de juegos\Motor\Motor\Error.cpp;C:\Users\Pieri\OneDrive\Desktop\Teoria de juegos\Motor\Motor\x64\Debug\Error.obj
-C:\Users\Pieri\OneDrive\Desktop\Teoria de juegos\Motor\Motor\GLS_Program.cpp;C:\Users\Pieri\OneDrive\Desktop\Teoria de juegos\Motor\Motor\x64\Debug\GLS_Program.obj
-C:\Users\Pieri\OneDrive\Desktop\Teoria de juegos\Motor\Motor\MainGame.cpp;C:\Users\Pieri\OneDrive\Desktop\Teoria de juegos\Motor\Motor\x64\Debug\MainGame.obj
-C:\Users\Pieri\OneDrive\Desktop\Teoria de juegos\Motor\Motor\Main.cpp;C:\Users\Pieri\OneDrive\Desktop\Teoria de juegos\Motor\Motor\x64\Debug\Main.obj
-C:\Users\Pieri\OneDrive\Desktop\Teoria de juegos\Motor\Motor\Sprite.cpp;C:\Users\Pieri\OneDrive\Desktop\Teoria de juegos\Motor\Motor\x64\Debug\Sprite.obj
+C:\Users\Pieri\Downloads\Motor\Motor\Camera2D.cpp;C:\Users\Pieri\Downloads\Motor\Motor\x64\Debug\Camera2D.obj
+C:\Users\Pieri\Downloads\Motor\Motor\Error.cpp;C:\Users\Pieri\Downloads\Motor\Motor\x64\Debug\Error.obj
+C:\Users\Pieri\Downloads\Motor\Motor\GLS_Program.cpp;C:\Users\Pieri\Downloads\Motor\Motor\x64\Debug\GLS_Program.obj
+C:\Users\Pieri\Downloads\Motor\Motor\GLTexture.cpp;C:\Users\Pieri\Downloads\Motor\Motor\x64\Debug\GLTexture.obj
+C:\Users\Pieri\Downloads\Motor\Motor\ImageLoader.cpp;C:\Users\Pieri\Downloads\Motor\Motor\x64\Debug\ImageLoader.obj
+C:\Users\Pieri\Downloads\Motor\Motor\InputManager.cpp;C:\Users\Pieri\Downloads\Motor\Motor\x64\Debug\InputManager.obj
+C:\Users\Pieri\Downloads\Motor\Motor\IOManager.cpp;C:\Users\Pieri\Downloads\Motor\Motor\x64\Debug\IOManager.obj
+C:\Users\Pieri\Downloads\Motor\Motor\MainGame.cpp;C:\Users\Pieri\Downloads\Motor\Motor\x64\Debug\MainGame.obj
+C:\Users\Pieri\Downloads\Motor\Motor\Main.cpp;C:\Users\Pieri\Downloads\Motor\Motor\x64\Debug\Main.obj
+C:\Users\Pieri\Downloads\Motor\Motor\picoPNG.cpp;C:\Users\Pieri\Downloads\Motor\Motor\x64\Debug\picoPNG.obj
+C:\Users\Pieri\Downloads\Motor\Motor\ResourceManager.cpp;C:\Users\Pieri\Downloads\Motor\Motor\x64\Debug\ResourceManager.obj
+C:\Users\Pieri\Downloads\Motor\Motor\Sprite.cpp;C:\Users\Pieri\Downloads\Motor\Motor\x64\Debug\Sprite.obj
+C:\Users\Pieri\Downloads\Motor\Motor\TextureCache.cpp;C:\Users\Pieri\Downloads\Motor\Motor\x64\Debug\TextureCache.obj
+C:\Users\Pieri\Downloads\Motor\Motor\Window.cpp;C:\Users\Pieri\Downloads\Motor\Motor\x64\Debug\Window.obj

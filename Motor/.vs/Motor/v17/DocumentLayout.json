@@ -1,22 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Pieri\\OneDrive\\Desktop\\Teoria de juegos\\Motor\\",
+  "WorkspaceRootPath": "C:\\Users\\Pieri\\Downloads\\Motor\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DB8DAC3D-EB5E-4674-B493-37EB0B558527}|Motor\\Motor.vcxproj|C:\\Users\\Pieri\\OneDrive\\Desktop\\Teoria de juegos\\Motor\\Motor\\MainGame.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{DB8DAC3D-EB5E-4674-B493-37EB0B558527}|Motor\\Motor.vcxproj|C:\\Users\\Pieri\\Downloads\\Motor\\Motor\\MainGame.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{DB8DAC3D-EB5E-4674-B493-37EB0B558527}|Motor\\Motor.vcxproj|solutionrelative:Motor\\MainGame.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DB8DAC3D-EB5E-4674-B493-37EB0B558527}|Motor\\Motor.vcxproj|C:\\Users\\Pieri\\OneDrive\\Desktop\\Teoria de juegos\\Motor\\Motor\\MainGame.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{DB8DAC3D-EB5E-4674-B493-37EB0B558527}|Motor\\Motor.vcxproj|C:\\Users\\Pieri\\Downloads\\Motor\\Motor\\MainGame.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{DB8DAC3D-EB5E-4674-B493-37EB0B558527}|Motor\\Motor.vcxproj|solutionrelative:Motor\\MainGame.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DB8DAC3D-EB5E-4674-B493-37EB0B558527}|Motor\\Motor.vcxproj|C:\\Users\\Pieri\\OneDrive\\Desktop\\Teoria de juegos\\Motor\\Motor\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{DB8DAC3D-EB5E-4674-B493-37EB0B558527}|Motor\\Motor.vcxproj|solutionrelative:Motor\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DB8DAC3D-EB5E-4674-B493-37EB0B558527}|Motor\\Motor.vcxproj|C:\\Users\\Pieri\\OneDrive\\Desktop\\Teoria de juegos\\Motor\\Motor\\Sprite.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{DB8DAC3D-EB5E-4674-B493-37EB0B558527}|Motor\\Motor.vcxproj|solutionrelative:Motor\\Sprite.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,56 +18,33 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Main.cpp",
-              "DocumentMoniker": "C:\\Users\\Pieri\\OneDrive\\Desktop\\Teoria de juegos\\Motor\\Motor\\Main.cpp",
-              "RelativeDocumentMoniker": "Motor\\Main.cpp",
-              "ToolTip": "C:\\Users\\Pieri\\OneDrive\\Desktop\\Teoria de juegos\\Motor\\Motor\\Main.cpp",
-              "RelativeToolTip": "Motor\\Main.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-04-26T01:19:24.818Z"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "MainGame.h",
-              "DocumentMoniker": "C:\\Users\\Pieri\\OneDrive\\Desktop\\Teoria de juegos\\Motor\\Motor\\MainGame.h",
+              "DocumentMoniker": "C:\\Users\\Pieri\\Downloads\\Motor\\Motor\\MainGame.h",
               "RelativeDocumentMoniker": "Motor\\MainGame.h",
-              "ToolTip": "C:\\Users\\Pieri\\OneDrive\\Desktop\\Teoria de juegos\\Motor\\Motor\\MainGame.h",
+              "ToolTip": "C:\\Users\\Pieri\\Downloads\\Motor\\Motor\\MainGame.h",
               "RelativeToolTip": "Motor\\MainGame.h",
-              "ViewState": "AQIAAAEAAAAAAAAAAAAmwCUAAAAAAAAA",
+              "ViewState": "AQIAABMAAAAAAAAAAAAmwCsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-04-26T00:59:46.804Z"
+              "WhenOpened": "2024-05-05T23:27:01.316Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "MainGame.cpp",
-              "DocumentMoniker": "C:\\Users\\Pieri\\OneDrive\\Desktop\\Teoria de juegos\\Motor\\Motor\\MainGame.cpp",
+              "DocumentMoniker": "C:\\Users\\Pieri\\Downloads\\Motor\\Motor\\MainGame.cpp",
               "RelativeDocumentMoniker": "Motor\\MainGame.cpp",
-              "ToolTip": "C:\\Users\\Pieri\\OneDrive\\Desktop\\Teoria de juegos\\Motor\\Motor\\MainGame.cpp",
+              "ToolTip": "C:\\Users\\Pieri\\Downloads\\Motor\\Motor\\MainGame.cpp",
               "RelativeToolTip": "Motor\\MainGame.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADgAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-04-26T00:06:56.085Z",
+              "WhenOpened": "2024-05-05T23:19:49.502Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Sprite.h",
-              "DocumentMoniker": "C:\\Users\\Pieri\\OneDrive\\Desktop\\Teoria de juegos\\Motor\\Motor\\Sprite.h",
-              "RelativeDocumentMoniker": "Motor\\Sprite.h",
-              "ToolTip": "C:\\Users\\Pieri\\OneDrive\\Desktop\\Teoria de juegos\\Motor\\Motor\\Sprite.h",
-              "RelativeToolTip": "Motor\\Sprite.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAWAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-04-26T00:05:24.616Z"
             }
           ]
         }
